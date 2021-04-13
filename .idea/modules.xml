@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bach-library-template.iml" filepath="$PROJECT_DIR$/.idea/bach-library-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demobachlib.iml" filepath="$PROJECT_DIR$/.idea/demobachlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bach.info.iml" filepath="$PROJECT_DIR$/.idea/bach.info.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/com.github.sormuras.library.iml" filepath="$PROJECT_DIR$/.idea/com.github.sormuras.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/com.github.onemanagency.demobachlib.iml" filepath="$PROJECT_DIR$/.idea/com.github.onemanagency.demobachlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test.base.iml" filepath="$PROJECT_DIR$/.idea/test.base.iml" />
     </modules>
   </component>

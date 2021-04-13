@@ -1,4 +1,4 @@
-package com.github.sormuras.library;
+package com.github.onemanagency.demobachlib;
 
 public class Library {
   public Library() {}

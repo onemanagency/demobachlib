@@ -1,6 +1,6 @@
 package test.base;
 
-import com.github.sormuras.library.Library;
+import com.github.onemanagency.demobachlib.Library;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
